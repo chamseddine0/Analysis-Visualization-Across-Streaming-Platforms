@@ -1,0 +1,151 @@
+date,heure_debut,durée,plateforme,série,genre,jour_semaine,heure_arrondie
+2023-12-24,17:15:00,66,Prime Video,Outer Banks,Aventure,Dimanche,17
+2023-09-15,20:00:00,89,Prime Video,The Expanse,Science-fiction,Vendredi,20
+2023-07-29,08:00:00,108,Prime Video,The Office,Comédie,Samedi,8
+2023-11-05,21:15:00,118,Prime Video,American Horror Story,Horreur,Dimanche,21
+2023-02-04,09:00:00,45,Disney+,This Is Us,Drame,Samedi,9
+2023-05-01,23:30:00,46,Disney+,You,Thriller,Lundi,23
+2023-08-31,16:45:00,81,Disney+,The Office,Comédie,Jeudi,16
+2023-09-13,13:30:00,78,Disney+,Modern Family,Comédie,Mercredi,13
+2023-07-30,13:30:00,26,Disney+,Extraction,Action,Dimanche,13
+2023-01-11,00:15:00,77,Disney+,Breaking Bad,Drame,Mercredi,0
+2023-11-14,01:30:00,84,Netflix,Marianne,Horreur,Mardi,1
+2023-07-08,13:15:00,41,Disney+,WandaVision,Fantastique,Samedi,13
+2023-07-17,17:30:00,75,Netflix,The Punisher,Action,Lundi,17
+2023-03-26,14:45:00,98,Netflix,The Witcher,Fantastique,Dimanche,14
+2023-02-06,03:15:00,71,Prime Video,You,Thriller,Lundi,3
+2023-07-23,07:30:00,44,Disney+,The Mandalorian,Aventure,Dimanche,7
+2023-12-31,19:00:00,60,Prime Video,The Mandalorian,Aventure,Dimanche,19
+2023-07-23,11:30:00,84,Prime Video,Modern Family,Comédie,Dimanche,11
+2023-03-03,16:30:00,37,Disney+,Mindhunter,Thriller,Vendredi,16
+2023-01-22,13:45:00,63,Netflix,Loki,Science-fiction,Dimanche,13
+2023-01-09,18:45:00,31,Prime Video,American Horror Story,Horreur,Lundi,18
+2023-09-08,03:15:00,31,Netflix,Brooklyn Nine-Nine,Comédie,Vendredi,3
+2023-09-01,11:30:00,91,Prime Video,Outer Banks,Aventure,Vendredi,11
+2023-02-18,12:15:00,93,Prime Video,American Horror Story,Horreur,Samedi,12
+2023-01-21,13:15:00,83,Disney+,Jack Ryan,Action,Samedi,13
+2023-12-16,21:00:00,45,Disney+,The Office,Comédie,Samedi,21
+2023-01-21,12:15:00,108,Prime Video,Shadow and Bone,Fantastique,Samedi,12
+2023-02-22,09:00:00,94,Prime Video,The Mandalorian,Aventure,Mercredi,9
+2023-03-23,18:45:00,117,Disney+,American Horror Story,Horreur,Jeudi,18
+2023-03-11,00:15:00,88,Prime Video,The Punisher,Action,Samedi,0
+2023-12-22,22:00:00,54,Prime Video,WandaVision,Fantastique,Vendredi,22
+2023-11-18,07:45:00,36,Prime Video,Extraction,Action,Samedi,7
+2023-06-02,18:45:00,37,Prime Video,Shadow and Bone,Fantastique,Vendredi,18
+2023-12-22,11:15:00,120,Netflix,Modern Family,Comédie,Vendredi,11
+2023-02-08,14:15:00,97,Prime Video,Jack Ryan,Action,Mercredi,14
+2023-08-21,00:00:00,56,Prime Video,Ozark,Thriller,Lundi,0
+2023-03-08,00:45:00,52,Netflix,Brooklyn Nine-Nine,Comédie,Mercredi,0
+2023-05-06,13:00:00,56,Disney+,Brooklyn Nine-Nine,Comédie,Samedi,13
+2023-01-30,20:45:00,106,Netflix,You,Thriller,Lundi,20
+2023-09-06,08:00:00,50,Prime Video,Outer Banks,Aventure,Mercredi,8
+2023-06-09,23:00:00,45,Prime Video,The Expanse,Science-fiction,Vendredi,23
+2023-12-14,12:45:00,53,Disney+,The Expanse,Science-fiction,Jeudi,12
+2023-04-16,14:00:00,39,Prime Video,Breaking Bad,Drame,Dimanche,14
+2023-02-08,20:45:00,92,Disney+,American Horror Story,Horreur,Mercredi,20
+2023-02-12,16:30:00,97,Disney+,The Expanse,Science-fiction,Dimanche,16
+2023-06-14,21:00:00,29,Prime Video,The Office,Comédie,Mercredi,21
+2023-06-26,23:45:00,44,Prime Video,Extraction,Action,Lundi,23
+2023-01-11,03:00:00,41,Prime Video,Ozark,Thriller,Mercredi,3
+2023-06-09,02:45:00,112,Netflix,Modern Family,Comédie,Vendredi,2
+2023-12-14,16:00:00,115,Disney+,Jack Ryan,Action,Jeudi,16
+2023-04-25,00:00:00,116,Netflix,You,Thriller,Mardi,0
+2023-07-16,15:30:00,91,Netflix,The Expanse,Science-fiction,Dimanche,15
+2023-06-09,18:00:00,54,Prime Video,Extraction,Action,Vendredi,18
+2023-06-08,14:30:00,40,Prime Video,Brooklyn Nine-Nine,Comédie,Jeudi,14
+2023-01-01,20:15:00,111,Netflix,WandaVision,Fantastique,Dimanche,20
+2023-01-17,19:45:00,87,Prime Video,Breaking Bad,Drame,Mardi,19
+2023-10-24,09:15:00,55,Prime Video,Loki,Science-fiction,Mardi,9
+2023-01-01,18:45:00,42,Disney+,Mindhunter,Thriller,Dimanche,18
+2023-07-11,22:30:00,60,Disney+,You,Thriller,Mardi,22
+2023-01-05,05:15:00,25,Disney+,This Is Us,Drame,Jeudi,5
+2023-05-23,17:30:00,48,Prime Video,The Punisher,Action,Mardi,17
+2023-03-02,16:15:00,58,Disney+,Brooklyn Nine-Nine,Comédie,Jeudi,16
+2023-09-11,22:30:00,72,Disney+,Stranger Things,Science-fiction,Lundi,22
+2023-10-09,17:45:00,82,Prime Video,Outer Banks,Aventure,Lundi,17
+2023-02-22,16:15:00,84,Prime Video,Jack Ryan,Action,Mercredi,16
+2023-03-17,08:00:00,31,Prime Video,WandaVision,Fantastique,Vendredi,8
+2023-02-06,03:00:00,75,Disney+,Extraction,Action,Lundi,3
+2023-07-02,19:00:00,106,Disney+,American Horror Story,Horreur,Dimanche,19
+2023-09-08,22:30:00,70,Prime Video,The Mandalorian,Aventure,Vendredi,22
+2023-03-18,07:30:00,94,Netflix,Loki,Science-fiction,Samedi,7
+2023-01-14,18:45:00,36,Prime Video,Shadow and Bone,Fantastique,Samedi,18
+2023-07-18,21:45:00,51,Netflix,Outer Banks,Aventure,Mardi,21
+2023-05-03,15:45:00,120,Netflix,Breaking Bad,Drame,Mercredi,15
+2023-03-29,11:45:00,33,Prime Video,Extraction,Action,Mercredi,11
+2023-05-02,16:30:00,21,Prime Video,The Haunting,Horreur,Mardi,16
+2023-05-12,19:30:00,103,Disney+,American Horror Story,Horreur,Vendredi,19
+2023-08-29,18:45:00,46,Netflix,Modern Family,Comédie,Mardi,18
+2023-02-08,13:30:00,109,Netflix,Outer Banks,Aventure,Mercredi,13
+2023-01-14,13:30:00,94,Netflix,The Witcher,Fantastique,Samedi,13
+2023-08-15,16:30:00,44,Disney+,Extraction,Action,Mardi,16
+2023-10-01,04:00:00,100,Prime Video,Outer Banks,Aventure,Dimanche,4
+2023-11-24,21:15:00,74,Prime Video,Extraction,Action,Vendredi,21
+2023-04-21,20:45:00,78,Netflix,Extraction,Action,Vendredi,20
+2023-09-28,03:15:00,107,Netflix,Jack Ryan,Action,Jeudi,3
+2023-08-02,09:45:00,67,Prime Video,The Punisher,Action,Mercredi,9
+2023-04-12,07:15:00,90,Prime Video,Outer Banks,Aventure,Mercredi,7
+2023-11-17,19:00:00,20,Disney+,This Is Us,Drame,Vendredi,19
+2023-05-14,01:00:00,48,Disney+,The Mandalorian,Aventure,Dimanche,1
+2023-02-09,23:15:00,62,Disney+,Brooklyn Nine-Nine,Comédie,Jeudi,23
+2023-05-27,05:15:00,96,Prime Video,Mindhunter,Thriller,Samedi,5
+2023-07-09,05:15:00,92,Prime Video,Lost,Aventure,Dimanche,5
+2023-05-19,17:30:00,102,Disney+,The Expanse,Science-fiction,Vendredi,17
+2023-01-04,08:30:00,21,Disney+,Lost,Aventure,Mercredi,8
+2023-02-14,22:30:00,45,Disney+,Modern Family,Comédie,Mardi,22
+2023-02-24,04:15:00,26,Prime Video,Extraction,Action,Vendredi,4
+2023-02-02,18:45:00,35,Netflix,Stranger Things,Science-fiction,Jeudi,18
+2023-09-11,13:15:00,42,Netflix,Marianne,Horreur,Lundi,13
+2023-09-21,15:15:00,63,Prime Video,Extraction,Action,Jeudi,15
+2023-06-01,02:15:00,63,Disney+,Shadow and Bone,Fantastique,Jeudi,2
+2023-12-22,01:30:00,64,Netflix,This Is Us,Drame,Vendredi,1
+2023-10-27,15:30:00,66,Disney+,Mindhunter,Thriller,Vendredi,15
+2023-09-18,23:15:00,34,Disney+,Stranger Things,Science-fiction,Lundi,23
+2023-03-30,00:45:00,58,Netflix,The Crown,Drame,Jeudi,0
+2023-03-15,23:30:00,84,Netflix,Stranger Things,Science-fiction,Mercredi,23
+2023-11-30,16:45:00,31,Netflix,Stranger Things,Science-fiction,Jeudi,16
+2023-12-30,13:30:00,30,Netflix,The Expanse,Science-fiction,Samedi,13
+2023-06-17,02:30:00,68,Disney+,Extraction,Action,Samedi,2
+2023-08-19,06:45:00,46,Netflix,This Is Us,Drame,Samedi,6
+2023-05-07,15:45:00,94,Prime Video,Lost,Aventure,Dimanche,15
+2023-03-19,01:30:00,25,Netflix,American Horror Story,Horreur,Dimanche,1
+2023-10-04,07:45:00,55,Prime Video,The Office,Comédie,Mercredi,7
+2023-09-02,06:00:00,119,Netflix,Loki,Science-fiction,Samedi,6
+2023-03-25,00:15:00,100,Netflix,Lost,Aventure,Samedi,0
+2023-09-10,08:30:00,104,Prime Video,Outer Banks,Aventure,Dimanche,8
+2023-12-15,19:15:00,32,Disney+,Modern Family,Comédie,Vendredi,19
+2023-05-01,12:45:00,28,Disney+,Lost,Aventure,Lundi,12
+2023-05-13,07:00:00,106,Prime Video,Brooklyn Nine-Nine,Comédie,Samedi,7
+2023-05-12,19:00:00,77,Disney+,Mindhunter,Thriller,Vendredi,19
+2023-02-12,04:30:00,65,Disney+,Breaking Bad,Drame,Dimanche,4
+2023-01-22,04:45:00,56,Disney+,Loki,Science-fiction,Dimanche,4
+2023-04-07,02:30:00,63,Disney+,Stranger Things,Science-fiction,Vendredi,2
+2023-07-18,09:15:00,66,Disney+,Breaking Bad,Drame,Mardi,9
+2023-12-22,04:15:00,114,Disney+,Outer Banks,Aventure,Vendredi,4
+2023-12-22,16:15:00,86,Prime Video,Extraction,Action,Vendredi,16
+2023-06-23,06:30:00,35,Prime Video,The Haunting,Horreur,Vendredi,6
+2023-04-30,13:15:00,94,Netflix,Loki,Science-fiction,Dimanche,13
+2023-06-13,15:30:00,64,Disney+,Brooklyn Nine-Nine,Comédie,Mardi,15
+2023-08-23,15:15:00,73,Prime Video,The Witcher,Fantastique,Mercredi,15
+2023-10-09,22:30:00,110,Prime Video,The Punisher,Action,Lundi,22
+2023-04-28,05:45:00,108,Netflix,Mindhunter,Thriller,Vendredi,5
+2023-01-21,19:30:00,84,Netflix,Outer Banks,Aventure,Samedi,19
+2023-08-12,19:00:00,115,Netflix,Extraction,Action,Samedi,19
+2023-06-13,12:30:00,49,Prime Video,The Punisher,Action,Mardi,12
+2023-08-18,09:45:00,21,Prime Video,WandaVision,Fantastique,Vendredi,9
+2023-01-10,05:15:00,73,Disney+,The Witcher,Fantastique,Mardi,5
+2023-05-14,09:45:00,119,Netflix,The Office,Comédie,Dimanche,9
+2023-09-19,21:15:00,99,Disney+,The Expanse,Science-fiction,Mardi,21
+2023-12-26,11:45:00,64,Netflix,Mindhunter,Thriller,Mardi,11
+2023-08-30,06:45:00,104,Prime Video,Outer Banks,Aventure,Mercredi,6
+2023-09-07,02:00:00,38,Prime Video,Outer Banks,Aventure,Jeudi,2
+2023-09-11,15:45:00,49,Prime Video,Outer Banks,Aventure,Lundi,15
+2023-10-30,08:45:00,73,Prime Video,The Witcher,Fantastique,Lundi,8
+2023-08-14,19:15:00,65,Prime Video,Lost,Aventure,Lundi,19
+2023-03-02,15:00:00,106,Disney+,The Expanse,Science-fiction,Jeudi,15
+2023-01-18,13:00:00,57,Prime Video,Marianne,Horreur,Mercredi,13
+2023-01-13,14:45:00,65,Netflix,Modern Family,Comédie,Vendredi,14
+2023-05-31,15:15:00,100,Netflix,Lost,Aventure,Mercredi,15
+2023-05-13,21:30:00,97,Prime Video,The Mandalorian,Aventure,Samedi,21
+2023-09-20,03:30:00,37,Prime Video,Lost,Aventure,Mercredi,3
+2023-10-29,23:30:00,75,Prime Video,Modern Family,Comédie,Dimanche,23

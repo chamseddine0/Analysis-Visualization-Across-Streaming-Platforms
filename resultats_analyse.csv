@@ -1,0 +1,13 @@
+plateforme,série,count,analyse,genre,durée
+Disney+,The Expanse,5.0,Série la plus regardée,,
+Netflix,Loki,4.0,Série la plus regardée,,
+Prime Video,Outer Banks,10.0,Série la plus regardée,,
+Disney+,,9.0,Genre dominant,Comédie,
+Netflix,,9.0,Genre dominant,Science-fiction,
+Prime Video,,18.0,Genre dominant,Aventure,
+Disney+,,,Durée moyenne soir,,65.75
+Netflix,,,Durée moyenne soir,,78.88888888888889
+Prime Video,,,Durée moyenne soir,,65.27777777777777
+Disney+,,26.0,Sessions longues,,
+Netflix,,28.0,Sessions longues,,
+Prime Video,,34.0,Sessions longues,,
