@@ -6,6 +6,7 @@ from datetime import datetime                   # Manipulation de dates
 import calendar                                 # Noms des jours de la semaine         
 import os
 
+
 ## Partie 1 - Préparation & Nettoyage des données 
 
 # Créer le dossier pour les graphiques
