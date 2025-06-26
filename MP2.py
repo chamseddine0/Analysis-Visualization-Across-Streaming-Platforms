@@ -148,3 +148,6 @@ resultats = pd.concat([
 resultats.to_csv('resultats_analyse.csv', index=False)
 
 print("Analyse terminée avec succès!") 
+
+
+print("GoodBye !!!")
